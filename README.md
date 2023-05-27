@@ -1,4 +1,4 @@
-# PPF-PRECUT-Decoding-Mimaki CG 160fx II
+# PPF-PRECUT-Decoding-Mimaki CG 160FX II
 PPF PRE-CUT Pattern Extraction Program Program Description The PRECUT Pattern Extraction Program is a powerful tool designed to extract patterns from the PRECUT program. It allows users to retrieve and copy patterns from the PRECUT program, enabling further analysis and utilization of the extracted patterns.
 
 This program provides a straightforward and efficient way to extract patterns without requiring the ability to save files directly from the PRECUT program. It overcomes limitations by directly accessing the program's memory to retrieve the patterns, ensuring a seamless extraction process.
